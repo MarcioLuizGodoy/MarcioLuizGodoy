@@ -36,7 +36,8 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="" alt="Imagem">
+  <div style="padding-top:75.200%;position:relative;"><iframe src="https://gifer.com/embed/8CjT" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 </p>
 
 ### Estatísticas
