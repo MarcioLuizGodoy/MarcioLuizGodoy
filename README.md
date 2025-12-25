@@ -5,6 +5,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciooliveirasilvagodoy@gmail.com)
 
+---
 
 
 ![Marcio GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioGodoy&commits_year=2025)
@@ -20,9 +21,8 @@
 <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"  /> 
 <img alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"  /> 
 <img alt="html5" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"  /> 
-
-
 </div>
 
+---
 ## Portfólio
 
