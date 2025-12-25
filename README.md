@@ -28,6 +28,7 @@
 ### Estatísticas
 ---
 
+![Marcio Luiz Godoy  GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioGodoy&show_icons=true)
 
 
 <br/>
