@@ -12,6 +12,8 @@ Abraço!
 ---
 
 [POO Diario de Trade](https://github.com/MarcioLuizGodoy/DiarioDeTrade)
+[Desafio de estágio](https://github.com/MarcioLuizGodoy/DESAFIO-ESTAGIO-ITEP-ENTREGA--FINAL)
+
 
 <br/>
 <br/>
