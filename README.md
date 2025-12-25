@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Godoy ✍️
 ---
+<br/>
+<br/>
 
 
 
@@ -9,7 +11,8 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciooliveirasilvagodoy@gmail.com)
 
-
+<br/>
+<br/>
 ### Tecnologias
 ---
 
@@ -22,10 +25,17 @@
 <img alt="html5" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"  /> 
 </div>
 
-
-### Portfólio
+### Estatísticas
 ---
 
 
+
+<br/>
+<br/>
+### Portfólio
+---
+
+<br/>
+<br/>
 ### Sobre mim
 ---
