@@ -4,6 +4,14 @@
 <!-- GIF -->
 ![Anime GIF](https://i.gifer.com/8CjT.gif)
 
+### Portfólio
+---
+
+[POO Diario de Trade](https://github.com/MarcioLuizGodoy/DiarioDeTrade)
+
+<br/>
+<br/>
+
 ### Redes Sociais
 ----
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-godoy-103872237/)
@@ -29,12 +37,6 @@
 <br/>
 
 
-### Portfólio
----
 
-[POO Diario de Trade](https://github.com/MarcioLuizGodoy/DiarioDeTrade)
-
-<br/>
-<br/>
 
 
