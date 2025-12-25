@@ -18,6 +18,12 @@
 <br/>
 
 
+### Portfólio
+---
+
+<br/>
+<br/>
+
 
 ### Estatísticas
 ---
@@ -27,11 +33,7 @@
 <br/>
 <br/>
 
-### Portfólio
----
 
-<br/>
-<br/>
 
 ### Redes Sociais
 ----
