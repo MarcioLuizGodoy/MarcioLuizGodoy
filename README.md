@@ -1,4 +1,4 @@
-### Olá <3
+### Olá!
 Meu nome é Márcio, tenho 29 anos. Eu estudo Análise e Desenvolvimento de Sistemas  no IFPE Campus Paulista.
 Estou procurando me desenvolver na área de Análise de dados.
 Espero que você encontre algo interessanwte nos portfólios que venho postando e trabalhando pra entregar valor e demonstrar experiência.
