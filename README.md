@@ -1,11 +1,6 @@
 ### Olá! Eu sou o Godoy ✍️
 <br/>
 
-### Sobre mim
----
-<br/>
-<br/>
-
 
 ### Tecnologias
 ---
