@@ -5,7 +5,7 @@
 ### Tecnologias
 ---
 
-<div  style="display: inline_block"> <br/> 
+<div  style="display:inline_block"> <br/> 
 <img alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "  /> 
 <img alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "  />
 <img alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white "  /> 
@@ -32,7 +32,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10 px;" 
+    style="padding-right:10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MarcioGodoy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <img 
