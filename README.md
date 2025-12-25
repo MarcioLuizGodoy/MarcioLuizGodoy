@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciooliveirasilvagodoy@gmail.com)
 
 
-![Marcio GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioGodoy&commits_year=2025)
+![Marcio GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioLuizGodoyMarcioLuizGodoy&commits_year=2025)
 
 
 
