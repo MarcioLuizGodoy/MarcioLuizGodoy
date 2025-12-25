@@ -1,6 +1,9 @@
 ### Olá! Eu sou o Godoy ✍️
 <br/>
 
+<!-- GIF -->
+![Anime GIF](https://i.gifer.com/8CjT.gif)
+
 ### Redes Sociais
 ----
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-godoy-103872237/)
@@ -34,9 +37,6 @@
 <br/>
 <br/>
 
-<!-- GIF -->
-![Anime GIF](https://i.gifer.com/8CjT.gif)
-
 
 ### Estatísticas
 ---
@@ -59,11 +59,3 @@
 
 <br/>
 <br/>
-
-
-
-
-
-
-
-
