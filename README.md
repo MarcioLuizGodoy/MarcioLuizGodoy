@@ -1,10 +1,6 @@
 ### Olá! Eu sou o Godoy ✍️
----
-
 <br/>
 <br/>
-
-
 
 ### Redes Sociais
 ----
