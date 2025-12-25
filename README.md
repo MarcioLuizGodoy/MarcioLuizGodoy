@@ -29,8 +29,7 @@
 ### Portfólio
 ---
 
-## Portfolio:
-- [POO Diario de Trade](https://github.com/MarcioLuizGodoy/DiarioDeTrade)
+[POO Diario de Trade](https://github.com/MarcioLuizGodoy/DiarioDeTrade)
 
 <br/>
 <br/>
