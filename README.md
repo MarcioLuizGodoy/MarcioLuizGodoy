@@ -5,8 +5,7 @@ Espero que você encontre algo interessanwte nos portfólios que venho postando 
 Abraço!
 <br/>
 
-<!-- GIF -->
-![Anime GIF](https://i.gifer.com/8CjT.gif)
+
 
 ### Portfólio
 ---
