@@ -12,10 +12,10 @@ Abraço!
 
 - [Projeto Disciplina Programaçao Orientada a Objetos - Diario de Trade ](https://github.com/MarcioLuizGodoy/DiarioDeTrade)
 - [Projeto Disciplina  Web I - LibGodoy](https://marcioluizgodoy.github.io/projeto-web-I--IFPE/)
-- 
+
+
 ## Desafio de Estágios 
 ---
-
 - [Desafio de estágio](https://github.com/MarcioLuizGodoy/DESAFIO-ESTAGIO-ITEP-ENTREGA--FINAL)
 
 
