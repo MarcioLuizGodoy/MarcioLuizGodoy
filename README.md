@@ -21,7 +21,7 @@ Abraço!
 
 ### Portfólio Análise de Dados
 ---
-- [Projeto Respondendo Questões de Negócios com  Sql](https://github.com/MarcioLuizGodoy/Business-Questions-Qql-Olist)
+- [Estuddo:  Respondendo Questões de Negócios com  Sql](https://github.com/MarcioLuizGodoy/Business-Questions-Qql-Olist)
 
 
 <br/>
