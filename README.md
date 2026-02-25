@@ -7,15 +7,13 @@ Abraço!
 
 
 
-### Portfólio Faculdade
----
-- [Projeto Disciplina Programaçao Orientada a Objetos - Diario de Trade ](https://github.com/MarcioLuizGodoy/DiarioDeTrade)
-- [Projeto Disciplina  Web I - LibGodoy](https://marcioluizgodoy.github.io/projeto-web-I--IFPE/)
+- []()
+- []()
 
 
 ### Portifólio Desafio de Estágios 
 ---
-- [Desafio de Estágio](https://github.com/MarcioLuizGodoy/DESAFIO-ESTAGIO-ITEP-ENTREGA--FINAL)
+- []()
 
 
 
