@@ -5,15 +5,6 @@ Espero que você encontre algo interessanwte nos portfólios que venho postando 
 Abraço!
 <br/>
 
-
-- []()
-- []()
-
----
-- []()
-
-
-
 ### Portfólio Análise de Dados
 ---
 - [Estudo:  Respondendo Questões de Negócios com  SQL](https://github.com/MarcioLuizGodoy/Business-Questions-Qql-Olist)
