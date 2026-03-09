@@ -9,6 +9,11 @@ Abraço!
 ---
 - [Projeto:  Respondendo Questões de Negócios com  SQL](https://github.com/MarcioLuizGodoy/Business-Questions-Qql-Olist)
 - [Projeto:  Visualização de Dados com Power BI ]()
+
+
+
+
+
 - [Projeto:  Diário de Trade Financeiro com JAVA ](https://github.com/MarcioLuizGodoy/DiarioDeTrade)
 
 
