@@ -8,6 +8,8 @@ Abraço!
 ### Portfólio Análise de Dados
 ---
 - [Estudo:  Respondendo Questões de Negócios com  SQL](https://github.com/MarcioLuizGodoy/Business-Questions-Qql-Olist)
+- [Projeto:  Diário de Trade ](https://github.com/MarcioLuizGodoy/Business-Questions-Qql-Olist)
+
 
 
 <br/>
