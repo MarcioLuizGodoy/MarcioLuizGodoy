@@ -8,7 +8,7 @@ Abraço!
 ### Portfólio Análise de Dados
 ---
 - [Projeto:  Respondendo Questões de Negócios com  SQL](https://github.com/MarcioLuizGodoy/Business-Questions-Qql-Olist)
-- [Projeto Visualização de Dados com Power Bi ]()
+- [Projeto:  Visualização de Dados com Power Bi ]()
 - [Projeto:  Diário de Trade Financeiro com JAVA ](https://github.com/MarcioLuizGodoy/DiarioDeTrade)
 
 
